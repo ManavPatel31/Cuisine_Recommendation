@@ -1,4 +1,4 @@
-# Cuisine_Recommendation
+# Cuisine Recommendation Using Association Rules
 This is the code to recommend different cuisines using Association Rules
 
 Recommender App for Top Ingredients in a Cuisine Type
